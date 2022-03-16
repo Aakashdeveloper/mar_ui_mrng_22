@@ -84,3 +84,12 @@ head > all the linking (css,javascript)/ css/ javascript
      > thing that is not visible to the user expect title
 body > all the thing visible to the user will be in the body
      
+inline  
+>> They Start from same line
+>> only occupy space that is required
+>> span, a, img
+
+block level
+>> always start from new line
+>> always occupy complete width
+>> p,div,section
