@@ -93,3 +93,8 @@ block level
 >> always start from new line
 >> always occupy complete width
 >> p,div,section
+
+src> source
+href> hyper reference
+alt > alternative
+rel > related to
